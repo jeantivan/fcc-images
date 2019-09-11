@@ -1,5 +1,6 @@
 {
   "author": "Jean Paul Tivan Rendon",
   "description": "Managing Packages with Npm",
-  "keywords": ["npm", "node", "freeCodeCamp"]
+  "keywords": ["npm", "node", "freeCodeCamp"],
+  "license": "MIT"
 }
